@@ -1,5 +1,5 @@
 def square_array(array)
-  x = []
-  array.each {|x| puts x.squared, []}
-  x
+  yes = []
+  array.each {|yes| yes.squared}
+  yes
 end
